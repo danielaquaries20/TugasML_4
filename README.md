@@ -1,6 +1,6 @@
-Nama    : Daniel Aquaries Pratama
-NIM     : A11.2023.15003
-Tugas   : Pembelajaran Mesin Tugas Repo 4
+#Nama    : Daniel Aquaries Pratama
+#NIM     : A11.2023.15003
+#Tugas   : Pembelajaran Mesin Tugas Repo 4
 
 Keterangan Tugas:
 Kirim link repository online dari praktikum pertemuan sampai minggu ke-14
